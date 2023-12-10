@@ -1,6 +1,6 @@
 # Nordic-Vibes-Dark-Color-Theme
 
-##Nordic Vibes
+#Nordic Vibes
 
 Dark theme inspired by Northern Lights.
 
